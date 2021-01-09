@@ -7,4 +7,7 @@ The data held in relational databases is managed by Structured Query Language (S
 T-SQL (Transact-SQL) is a proprietary procedural language of Microsoft which adds __transactional control__, __error and exception handling and block execution__ abilities to SQL.
 
 ## Database prototype for Car Service Network (Sieć Warsztatów)
+
+Database was part of a project carried out in cooperation with D. Podolak & D. Sobstyl
+
 ![database diagram](./dbDiagram.jpg)
