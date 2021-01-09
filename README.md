@@ -10,4 +10,10 @@ T-SQL (Transact-SQL) is a proprietary procedural language of Microsoft which add
 
 Database was part of a project carried out in cooperation with D. Podolak & D. Sobstyl
 
+Project included: 
+* database design (structured entity relationship model) for provided business analysis 
+* drawing a model of database in draw.io 
+* transfering draw.io model to mssql  (hosted on azures services & locally)
+* implementation of: procedures, functions and triggers according to the requirements
+
 ![database diagram](./dbDiagram.jpg)
